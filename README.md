@@ -26,7 +26,7 @@
 ## 📸 界面预览
 
 
-<img width="1800" height="1456" alt="image" src="https://github.com/user-attachments/assets/427a5de8-0f2b-4a40-8529-d59dc3d69f82" />
+![界面预览](view.png)
 
 
 ## 🛠️ 安装依赖
