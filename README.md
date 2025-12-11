@@ -10,6 +10,11 @@
 - 自动识别目录中的所有EPUB文件
 - 支持命令行参数指定文件或目录
 
+<img width="1800" height="1456" alt="image" src="https://github.com/user-attachments/assets/2521d4da-a56c-47f4-bba7-a46f2e4edf11" />
+
+
+
+
 ### 2. 智能章节识别（增强版）
 内置强大的章节识别规则库，支持多种常见的章节格式，并具备误判过滤功能：
 
