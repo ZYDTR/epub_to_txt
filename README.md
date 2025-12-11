@@ -23,7 +23,10 @@
 *   **🖥️ 双模操作**：提供直观的 GUI 图形界面（小白推荐）和强大的命令行 CLI（极客首选）。
 *   **📊 实时反馈**：转换过程中实时显示字数统计、压缩比率及进度条。
 
-## 📸 界面预览<img width="1800" height="1456" alt="Image" src="https://github.com/user-attachments/assets/d3b6118c-d56c-4013-ba6f-70ef3a730fd1" />
+## 📸 界面预览
+
+
+<img width="1800" height="1456" alt="Image" src="https://github.com/user-attachments/assets/d3b6118c-d56c-4013-ba6f-70ef3a730fd1" />
 
 ## 🛠️ 安装依赖
 
