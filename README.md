@@ -24,10 +24,7 @@
 *   **📊 实时反馈**：转换过程中实时显示字数统计、压缩比率及进度条。
 
 ## 📸 界面预览
-
-<div align="center">
-  <img width="800" alt="GUI Screenshot" src="https://github.com/user-attachments/assets/2521d4da-a56c-47f4-bba7-a46f2e4edf11" />
-</div>
+<img width="1800" height="1456" alt="image" src="https://github.com/user-attachments/assets/55151474-a012-4976-8ad0-e56f8342cc76" />
 
 ## 🛠️ 安装依赖
 
@@ -151,9 +148,8 @@ It is specifically optimized for tools with context limits like **NotebookLM**, 
 
 ## 📸 Screenshot
 
-<div align="center">
-  <img width="800" alt="GUI Screenshot" src="https://github.com/user-attachments/assets/2521d4da-a56c-47f4-bba7-a46f2e4edf11" />
-</div>
+<img width="1800" height="1456" alt="image" src="https://github.com/user-attachments/assets/55b43b48-38f7-4258-b477-e4601ecdac40" />
+
 
 ## 🛠️ Installation
 
