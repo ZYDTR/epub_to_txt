@@ -3,7 +3,7 @@
 
 你可以直接复制以下内容到你的 `README.md` 文件中。
 
-```markdown
+markdown
 # 📚 EPUB to TXT 智能批量转换工具
 
 > **专为 AI 知识库构建打造的数据清洗工具**  
@@ -127,7 +127,7 @@ epub_to_txt/
 
 适合发布到 GitHub 国际社区或作为双语文档的下半部分。
 
-```markdown
+markdown
 # 📚 EPUB to TXT Smart Batch Converter
 
 > **The ultimate data cleaning tool for AI Knowledge Bases.**  
@@ -150,9 +150,7 @@ It is specifically optimized for tools with context limits like **NotebookLM**, 
 *   **📊 Visual Stats**: Provides real-time word counts and progress tracking.
 
 ## 📸 Screenshot
-
-<img width="1800" height="1456" alt="image" src="https://github.com/user-attachments/assets/44198b0b-826f-44d7-8822-23147df46d2b" />
-
+![界面预览](view.png)
 
 
 ## 🛠️ Installation
