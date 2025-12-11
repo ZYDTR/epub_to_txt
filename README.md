@@ -23,8 +23,7 @@
 *   **🖥️ 双模操作**：提供直观的 GUI 图形界面（小白推荐）和强大的命令行 CLI（极客首选）。
 *   **📊 实时反馈**：转换过程中实时显示字数统计、压缩比率及进度条。
 
-## 📸 界面预览
-<img width="1800" height="1456" alt="image" src="https://github.com/user-attachments/assets/55151474-a012-4976-8ad0-e56f8342cc76" />
+## 📸 界面预览<img width="1800" height="1456" alt="image" src="https://github.com/user-attachments/assets/e38d2ba2-1cb0-431d-ae26-4b6041f18448" />
 
 ## 🛠️ 安装依赖
 
@@ -148,7 +147,8 @@ It is specifically optimized for tools with context limits like **NotebookLM**, 
 
 ## 📸 Screenshot
 
-<img width="1800" height="1456" alt="image" src="https://github.com/user-attachments/assets/55b43b48-38f7-4258-b477-e4601ecdac40" />
+<img width="1800" height="1456" alt="image" src="https://github.com/user-attachments/assets/44198b0b-826f-44d7-8822-23147df46d2b" />
+
 
 
 ## 🛠️ Installation
