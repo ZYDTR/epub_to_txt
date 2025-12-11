@@ -1,9 +1,7 @@
 
 中文版 (For English version, please scroll down. ) 
 
-你可以直接复制以下内容到你的 `README.md` 文件中。
 
-markdown
 # 📚 EPUB to TXT 智能批量转换工具
 
 > **专为 AI 知识库构建打造的数据清洗工具**  
